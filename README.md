@@ -17,8 +17,10 @@ O objetivo deste projeto é mostrar como a automação de tarefas na AWS pode aj
 ## Sobre o projeto
 
 ### Cenário
-Apresentação de
+Apresentação para uma empresa visando vender serviço de automação. 
+
 ### Objetivo
+
 ### Ferramentas
 Durante o projeto, utilizamos as seguintes ferramentas:
 
@@ -44,7 +46,7 @@ Observação: Durante os vídeos, será feito o acompanhamento do tempo para evi
 
 ### Apresentação
 
-
+(link do vídeo)
 
 
 
