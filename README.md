@@ -1,5 +1,6 @@
 # Bootcamp-DevOps-Avanti-Grupo2
  
+![Sem título](https://github.com/user-attachments/assets/e4425080-3ed3-4a16-95bb-4465a752afca)
 
 ## Demo Day - Tema: Automação de Infraestrutura com AWS e Terraform
 Este projeto busca demonstrar a importância da automação de infraestrutura, comparando a forma tradicional de realizar tarefas manualmente via console da AWS com a abordagem automatizada usando Terraform. Durante a apresentação, serão mostrados dois vídeos lado a lado, marcando o tempo gasto nas duas abordagens, para evidenciar como a automação pode agilizar processos, reduzir erros e aumentar a eficiência nas empresas.
