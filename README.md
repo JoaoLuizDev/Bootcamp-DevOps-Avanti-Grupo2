@@ -5,6 +5,8 @@
 Este projeto busca demonstrar a importância da automação de infraestrutura, comparando a forma tradicional de realizar tarefas manualmente via console da AWS com a abordagem automatizada usando Terraform. Durante a apresentação, serão mostrados dois vídeos lado a lado, marcando o tempo gasto nas duas abordagens, para evidenciar como a automação pode agilizar processos, reduzir erros e aumentar a eficiência nas empresas.
 
 ### O que é
+O Demo Day é um evento onde startups apresentam suas ideias ou produtos para investidores e parceiros, com o objetivo de captar investimentos e visibilidade em um curto espaço de tempo. É uma grande oportunidade para mostrar resultados, fazer networking e receber feedback sobre o negócio.
+
 ### Objetivo
 O objetivo deste projeto é mostrar como a automação de tarefas na AWS pode ajudar as empresas a:
 - Aumentar a agilidade nas operações;
@@ -14,6 +16,7 @@ O objetivo deste projeto é mostrar como a automação de tarefas na AWS pode aj
 ## Sobre o projeto
 
 ### Cenário
+Apresentação de
 ### Objetivo
 ### Ferramentas
 Durante o projeto, utilizamos as seguintes ferramentas:
@@ -25,10 +28,10 @@ Durante o projeto, utilizamos as seguintes ferramentas:
 - GitHub: Para versionamento de código e controle do repositório.
 
 ### Etapas
-- Criação de usuários, grupos e permissões na AWS;
-- Provisionamento de instâncias EC2;
-- Configuração de armazenamento no S3;
-- Deploy de site.
+- Criação de usuários;
+- Criação de grupos;
+- Configuração de permissões na AWS.
+
 
 ### Material
 Serão apresentados dois vídeos lado a lado:
