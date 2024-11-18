@@ -46,7 +46,7 @@ Observação: Durante os vídeos, será feito o acompanhamento do tempo para evi
 
 ### Apresentação
 
-(link do vídeo)
+https://acesse.one/bootcamp-dataops-slides-2024
 
 
 
