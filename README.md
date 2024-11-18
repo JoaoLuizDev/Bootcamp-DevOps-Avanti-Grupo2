@@ -6,9 +6,10 @@
 Este projeto busca demonstrar a importância da automação de infraestrutura, comparando a forma tradicional de realizar tarefas manualmente via console da AWS com a abordagem automatizada usando Terraform. Durante a apresentação, serão mostrados dois vídeos lado a lado, marcando o tempo gasto nas duas abordagens, para evidenciar como a automação pode agilizar processos, reduzir erros e aumentar a eficiência nas empresas.
 
 ### O que é
-O Demo Day é um evento onde startups apresentam suas ideias ou produtos para investidores e parceiros, com o objetivo de captar investimentos e visibilidade em um curto espaço de tempo. É uma grande oportunidade para mostrar resultados, fazer networking e receber feedback sobre o negócio.
+O Demo Day no contexto de bootcamp, tem como objetivo consolidar o aprendizado, demonstrar as habilidades desenvolvidas, obter um feedback do projeto. Assim como expandir o networking e preparar os estudantes para o mercado de trabalho.
+Já num contexto profissional, o Demo Day é um evento onde startups apresentam suas ideias ou produtos para investidores e parceiros, com o objetivo de captar investimentos e visibilidade em um curto espaço de tempo. É uma grande oportunidade para mostrar resultados, fazer networking e receber feedback sobre o negócio.
 
-### Objetivo
+### Objetivo Geral
 O objetivo deste projeto é mostrar como a automação de tarefas na AWS pode ajudar as empresas a:
 - Aumentar a agilidade nas operações;
 - Economizar tempo na execução de tarefas repetitivas;
@@ -17,9 +18,10 @@ O objetivo deste projeto é mostrar como a automação de tarefas na AWS pode aj
 ## Sobre o projeto
 
 ### Cenário
-Apresentação para uma empresa visando vender serviço de automação. 
+Uma empresa do ramo de tecnologia que necessita criar vários user groups com níveis de acesso diferentes. 
 
-### Objetivo
+### Objetivo Específico
+Demonstrar que o processo automatizado é mais eficiente, consistente, escalável e seguro em vista do processo manual.
 
 ### Ferramentas
 Durante o projeto, utilizamos as seguintes ferramentas:
@@ -31,10 +33,8 @@ Durante o projeto, utilizamos as seguintes ferramentas:
 - GitHub: Para versionamento de código e controle do repositório.
 
 ### Etapas
-- Criação de usuários;
-- Criação de grupos;
-- Configuração de permissões na AWS.
-
+- Criação e associação das políticas de acesso dos user groups de forma manual;
+- Criação do template para a automação (tipos de user groups e suas políticas de acesso);
 
 ### Material
 Serão apresentados dois vídeos lado a lado:
